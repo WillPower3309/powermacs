@@ -1,0 +1,16 @@
+/.*
+!.gitignore
+!.github
+*.cache*
+*.log
+
+# emacs tempfiles that shouldn't be there
+.yas-compiled-snippets.el
+elpa/
+
+# compiled files
+*.elc
+*.lib
+*.fas
+*.dat
+*.eld
