@@ -31,18 +31,6 @@
 ;; UI LAYOUT
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;; no startup screen or message
-(setq inhibit-startup-screen t
-      inhibit-startup-message t
-      inhibit-startup-echo-area-message t
-      initial-scratch-message nil)
-
-; remove uneeded ui elements
-(tool-bar-mode -1)
-(tooltip-mode -1)
-(menu-bar-mode -1)
-(scroll-bar-mode -1)
-
 ;; Pixel scroll (as opposed to char scrool)
 (pixel-scroll-mode t)
 
