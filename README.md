@@ -2,4 +2,8 @@
 A powerful emacs configuration leveraging the performance optimizations of doom emacs, the keybinds of vim, and the looks of nano emacs.
 
 ## Install
-git clone --depth 1 https://github.com/WillPower3309/powermacs ~/.emacs.d
+1. install doom emacs
+
+2. `git clone --depth 1 https://github.com/WillPower3309/powermacs ~/.doom.d`
+
+3. sync doom
