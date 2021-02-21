@@ -4,6 +4,8 @@ A powerful emacs configuration leveraging the performance optimizations of doom 
 ## Install
 1. install doom emacs
 
-2. `git clone --depth 1 https://github.com/WillPower3309/powermacs ~/.doom.d`
+2. clone the [nano-emacs repository](https://github.com/rougier/nano-emacs) to your home folder
 
-3. sync doom
+3. `git clone --depth 1 https://github.com/WillPower3309/powermacs ~/.doom.d`
+
+4. sync doom
